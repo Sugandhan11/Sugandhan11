@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sugandhan11
+- 👋 Hi, I’m Sugandhan S
 
 <!---
 Sugandhan11/Sugandhan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
