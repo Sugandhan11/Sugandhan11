@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-Engineering Intern @Powerschool<br>Quarantine Engineer !🤓⚡<br>FUll-Stack Developer
+Associate Software Engineer @Powerschool<br>Quarantine Engineer !🤓⚡<br>FUll-Stack Developer
 
 
 # 💻 Tech Stack:
